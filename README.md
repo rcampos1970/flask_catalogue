@@ -6,6 +6,7 @@ This Python code is a simple Flask application that allows users to submit produ
     <td><img src="screenshot_1.jpeg" alt="Screenshot 1"></td>
     <td><img src="screenshot_2.jpeg" alt="Screenshot 2"></td>
     <td><img src="screenshot_3.jpeg" alt="Screenshot 3"></td>
+    <td><img src="screenshot_4.png" alt="Screenshot 4"></td>
   </tr>
 </table>
 
