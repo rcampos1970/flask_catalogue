@@ -1,8 +1,14 @@
-# README
-
-## Flask Catalogue Uploader
+# Flask Catalogue Uploader
 
 This Python code is a simple Flask application that allows users to submit product information, such as name, description, and price, which is then stored in an Excel file ("Cathalogue.xlsx"). 
+<table>
+  <tr>
+    <td><img src="screenshot_1.jpeg" alt="Screenshot 1"></td>
+    <td><img src="screenshot_2.jpeg" alt="Screenshot 2"></td>
+    <td><img src="screenshot_3.jpeg" alt="Screenshot 3"></td>
+  </tr>
+</table>
+
 
 ### Prerequisites
 1. Python
